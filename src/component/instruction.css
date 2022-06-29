@@ -1,0 +1,13 @@
+.container-instruct{
+    position: absolute;
+    background: rgb(255, 254, 237);
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 20px;
+  padding-left:25px;
+  
+  margin: 20px;
+  top:700px;
+  left:700px;
+  float: left;
+}

@@ -1,0 +1,28 @@
+.mainbody{
+position:absolute;
+display:flex;
+/* justify-content: space-evenly; */
+flex-wrap: wrap;
+left:15%;
+top:10%;
+width:85%;
+background-color: rgb(230, 230, 230);
+padding-bottom: 30px;
+}
+.cardcont{
+    margin-left: 50px;
+    margin-top: 35px;
+    width:20rem;
+    height:30rem;
+    margin-right:30px;
+    
+}
+.catcardmedia{
+    height:13rem;
+}
+.catcardcontent{
+    height:10rem;
+}
+/* .link{
+    
+} */

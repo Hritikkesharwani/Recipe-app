@@ -1,0 +1,14 @@
+.container{
+    position:absolute;
+    background-color:black;
+    height: 10%;
+    width: 100%;
+}
+.text {
+    margin-left:60px;
+    
+    margin-right:78rem;
+}
+.text h2{
+   color:white; 
+}
